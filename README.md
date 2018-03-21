@@ -1,4 +1,6 @@
-=============================================================================================================
+
+#  URL : https://www.linkedin.com/pulse/apache-hbase-impatient-mich-talebzadeh-ph-d-/
+#=============================================================================================================
 Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.
 
 When Would I Use Apache HBase?
